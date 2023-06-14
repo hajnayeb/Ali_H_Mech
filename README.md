@@ -8,7 +8,7 @@ The following projects are the experimental projects I have done in the past in 
 4) [Applying Blade Tip Timing (BTT) methods for measuring blades vibration](https://github.com/hajnayeb/BTT)
 5) [Rub-impact detection in rotors using torsional vibrations](https://github.com/hajnayeb/Rub-Impact)
 
-**- Vehicle testing:**
+**- Vehicle and vehicle parts testing:**
 
 6) [Brake judder road tests](https://github.com/hajnayeb/Judder)
 7) [Engine misfire detection](https://github.com/hajnayeb/Engine)
