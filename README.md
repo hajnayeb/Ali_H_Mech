@@ -9,3 +9,4 @@ The following projects are the experimental projects I have done in the past in 
 **- Vehicle testing:**
 7) [Brake judder road tests](https://github.com/hajnayeb/Judder)
 8) [Engine misfire detection](https://github.com/hajnayeb/Engine)
+9) [Ball and roller bearing test setup for car gearbox quality control](https://github.com/hajnayeb/Bearing)
