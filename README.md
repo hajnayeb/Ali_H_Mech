@@ -9,6 +9,7 @@ The following projects are the experimental projects I have done in the past in 
 5) [Rub-impact detection in rotors using torsional vibrations](https://github.com/hajnayeb/Rub-Impact)
 
 **- Vehicle testing:**
+
 6) [Brake judder road tests](https://github.com/hajnayeb/Judder)
 7) [Engine misfire detection](https://github.com/hajnayeb/Engine)
 8) [Ball and roller bearing test setup for car gearbox quality control](https://github.com/hajnayeb/Bearing)
