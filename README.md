@@ -12,7 +12,7 @@ The following projects are the experimental projects I have done in the past in 
 **- Vehicle and vehicle parts testing:**
 
 7) [Different tests of vehicle parts (ITRAC Co.)](https://github.com/hajnayeb/Tests/)
-8) [Timing belt flapping test](ITRAC Co.)](https://github.com/hajnayeb/Tests/)
+8) [Timing belt flapping test](ITRAC Co.)](https://github.com/hajnayeb/flap)
 9) [Brake judder road tests (ITRAC co.)](https://github.com/hajnayeb/Judder)
 10) [Engine misfire detection (ITRAC co.)](https://github.com/hajnayeb/Engine)
 11) [Ball and roller bearing test setup for car gearbox quality control (ITRAC co.)](https://github.com/hajnayeb/Bearing)
