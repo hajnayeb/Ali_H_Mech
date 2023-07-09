@@ -15,4 +15,4 @@ The following projects are the experimental projects I have done in the past in 
 8) [Brake judder road tests (ITRAC co.)](https://github.com/hajnayeb/Judder)
 9) [Engine misfire detection (ITRAC co.)](https://github.com/hajnayeb/Engine)
 10) [Ball and roller bearing test setup for car gearbox quality control (ITRAC co.)](https://github.com/hajnayeb/Bearing)
-11) [Modal analysis of an engine block (ITRAC co.)]([https://github.com/hajnayeb/enginemodal])
+11) [Modal analysis of an engine block (ITRAC co.)]([https://github.com/hajnayeb/enginemodal)
