@@ -11,7 +11,7 @@ The following projects are the experimental projects I have done in the past in 
 
 **- Vehicle and vehicle parts testing:**
 
-7) [Different tests of vehicle parts I performed at ITRAC Co.](https://github.com/hajnayeb/Tests/)
+7) [Different tests of vehicle parts I performed (ITRAC Co.)](https://github.com/hajnayeb/Tests/)
 8) [Brake judder road tests (ITRAC co.)](https://github.com/hajnayeb/Judder)
 9) [Engine misfire detection (ITRAC co.)](https://github.com/hajnayeb/Engine)
 10) [Ball and roller bearing test setup for car gearbox quality control (ITRAC co.)](https://github.com/hajnayeb/Bearing)
