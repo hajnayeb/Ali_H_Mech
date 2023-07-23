@@ -20,4 +20,4 @@ The following projects are the experimental projects I have done in the past in 
 
 **- Simulation and Analysis projects:**
 
-13) https://github.com/hajnayeb/Safety
+13) [Designing a safety shield in SolidWorks and Ansys](https://github.com/hajnayeb/Safety)
