@@ -4,6 +4,7 @@ The following projects are the experimental projects I have done in the past in 
 **- Design projects:**
 1) [Designing and Manufacturing a Test setup for predicting the Remaining Useful Life of ball bearings (University of Calgary)](https://github.com/hajnayeb/RUL/tree/main)
 2) [Designing and Manufacturing a laboratory pump for cavitation investigation (University of Calgary)](https://github.com/hajnayeb/labpump)
+3) [Designing and Manufacturing a wearable sensor (Shahid Chamran University of Ahvaz)](https://github.com/hajnayeb/sensor)
 
 **- Machinery diagnosis projects:**
 1) [Cavitation detection in centrifugal pumps using the instantaneous angular speed of a pump using an encoder (Shahid Chamran University of Ahvaz)](https://github.com/hajnayeb/IAS-Cav/tree/main)
